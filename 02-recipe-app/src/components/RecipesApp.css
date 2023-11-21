@@ -1,0 +1,19 @@
+.RecipesApp {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  align-content: space-around;
+  margin-bottom: 3%;
+}
+.card {
+  margin-top: 4%;
+  border: 1px solid black;
+  width: 250px;
+}
+
+.form-control {
+  width: 33%;
+  margin: 0 auto;
+  margin-top: 3%;
+  background-color: whitesmoke;
+}
